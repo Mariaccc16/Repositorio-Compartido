@@ -1,4 +1,5 @@
 //Mariana Molina 202222414
+//María Camila Serrato 202410329
 
 PImage elefante1;
 PImage elefante2;
